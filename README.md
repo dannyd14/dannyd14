@@ -7,3 +7,11 @@ I am a Junior studying Applied and Computational Mathematics and Statistics, whi
 - Bachelor of Science - University of Notre Dame
 - High School Diploma - Avon Lake High School
 
+## Technical Skills
+- Python
+- R
+- SQL
+- Microsoft Office
+- Hudl Sportscode
+- Synergy Sports
+
