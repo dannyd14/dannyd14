@@ -4,4 +4,6 @@ I am a Junior studying Applied and Computational Mathematics and Statistics, whi
  My Personal Repository
 
 ## Education 
+- Bachelor of Science - University of Notre Dame
+- High School Diploma - Avon Lake High School
 
