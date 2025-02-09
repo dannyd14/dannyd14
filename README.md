@@ -16,6 +16,9 @@ I am a Junior studying Applied and Computational Mathematics and Statistics, whi
 - Hudl Sportscode
 - Synergy Sports
 
-## Data Science Projects
+## Current Data Science Projects
 [Data Science Portfolio](https://github.com/dannyd14/Donegan-Data-Science-Portfolio)
+
+## Goals
+By the end of this semester, I am hoping to further strengthen my technical skills within the languages, tools, and frameworks with which I have experience, while also exploring some new languages and developing new skills.
 
