@@ -1,4 +1,6 @@
-# Hello, I am Danny
+# Danny Donegan
+
+## Applied Mathematics and Data Science Student focused on Machine Learning and data applications
 
 
 [LinkedIn](www.linkedin.com/in/danny-donegan)
