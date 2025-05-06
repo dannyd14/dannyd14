@@ -7,7 +7,7 @@
 
 -📚 University of Notre Dame
 
--🔗[LinkedIn](www.linkedin.com/in/danny-donegan)
+-🔗[LinkedIn](https://www.linkedin.com/in/danny-donegan/)
 
 -✉️ ddonegan@nd.edu
 
