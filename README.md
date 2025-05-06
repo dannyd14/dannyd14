@@ -4,8 +4,11 @@
 
 
 -📍South Bend, IN
+
 -📚 University of Notre Dame
+
 -🔗[LinkedIn](www.linkedin.com/in/danny-donegan)
+
 -✉️ ddonegan@nd.edu
 
 ## About Me
@@ -13,9 +16,13 @@ I am a Junior studying Applied and Computational Mathematics and Statistics, whi
 
 ## Projects
 [Data Science Portfolio](https://github.com/dannyd14/Donegan-Data-Science-Portfolio)
+
 [Basic Streamlit App](https://github.com/dannyd14/Donegan-Data-Science-Portfolio/tree/main/basic-streamlit-app)
+
 [Data Tidying Project](https://github.com/dannyd14/Donegan-Data-Science-Portfolio/tree/main/TidyData-Project)
+
 [Supervised Machine Learning Exploratory App](https://github.com/dannyd14/Donegan-Data-Science-Portfolio/tree/main/MLStreamlitApp)
+
 [Unsupervised Machine Learning Exploratory App](https://github.com/dannyd14/Donegan-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
 
 ## Technical Skills
