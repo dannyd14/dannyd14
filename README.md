@@ -3,10 +3,10 @@
 ## Applied Mathematics and Data Science Student focused on Machine Learning and Data Applications
 
 
-📍South Bend, IN
-📚 University of Notre Dame
-🔗[LinkedIn](www.linkedin.com/in/danny-donegan)
-✉️ ddonegan@nd.edu
+-📍South Bend, IN
+-📚 University of Notre Dame
+-🔗[LinkedIn](www.linkedin.com/in/danny-donegan)
+-✉️ ddonegan@nd.edu
 
 ## About Me
 I am a Junior studying Applied and Computational Mathematics and Statistics, while also pursuing a minor in Data Science at the University of Notre Dame. I have an especially strong interest in data projects cenetered around sports, specificially basketball. Outside of the classroom, I spend time working as a Team Manager for the Men's Basketball Team. Within some of the projects that are linked below, I have spent a lot of time exploring different machine learning models and also some other data management an visualization projects.
