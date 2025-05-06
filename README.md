@@ -12,7 +12,7 @@
 -✉️ ddonegan@nd.edu
 
 ## About Me
-I am a Junior studying Applied and Computational Mathematics and Statistics, while also pursuing a minor in Data Science at the University of Notre Dame. I have an especially strong interest in data projects cenetered around sports, specificially basketball. Outside of the classroom, I spend time working as a Team Manager for the Men's Basketball Team. Within some of the projects that are linked below, I have spent a lot of time exploring different machine learning models and also some other data management an visualization projects.
+I am a Junior studying Applied and Computational Mathematics and Statistics, while also pursuing a minor in Data Science at the University of Notre Dame. I have an especially strong interest in data projects cenetered around sports, specificially basketball. Outside of the classroom, I spend time working as a Team Manager for the Men's Basketball Team. Within some of the projects that are linked below, I have spent a lot of time exploring different machine learning models and also some other data management and visualization projects.
 
 ## Projects
 [Data Science Portfolio](https://github.com/dannyd14/Donegan-Data-Science-Portfolio)
